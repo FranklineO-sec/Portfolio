@@ -11,3 +11,91 @@ author_profile: true
 **Cybersecurity Specialist | Penetration Testing | Threat Detection | Health Informatics**
 
 Welcome to my portfolio site. Use the navigation menu to explore my resume, projects, lab challenges, and contact details.
+
+---
+layout: single
+title: "Resume"
+permalink: /resume/
+author_profile: true
+---
+
+# 📄 Resume  
+
+## 🎓 Education  
+- **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
+
+## 💼 Work Experience  
+- **AI Data Analyst Intern** – Excelerate (Feb 2025 – Mar 2025)  
+  - Developed predictive models for student churn, improving detection accuracy by 35%.  
+  - Cleaned and prepared 8,000+ data rows for secure ML pipelines.  
+  - Engineered features to identify behavioral anomalies.  
+
+- **Health Information Management Trainee** – KUTRRH (Mar 2022 – May 2022)  
+  - Managed sensitive patient data under MoH data security protocols.  
+  - Maintained 100% accuracy in KHIS data updates.  
+
+## 🏆 Certifications  
+- Cisco Ethical Hacker Track – Cyber Shujaa (Aug 2025)  
+- Python for Cybersecurity Specialization – Coursera (Aug 2025)  
+- AI Career Essentials – ALX Africa (Jul 2024)  
+
+## 🛠 Skills  
+- Penetration Testing: Kali Linux, DVWA, Metasploit, Burp Suite  
+- Vulnerability Assessment: SQLMap, Nikto, SMBClient, Enum4linux  
+- Network Analysis: Wireshark, PCAP Analysis  
+- SIEM & Monitoring: Splunk, Elastic, IBM QRadar  
+- Data Security & Compliance (Health Informatics background)  
+
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+# 🚀 Projects  
+
+## [Exploiting Web Server Misconfiguration](https://github.com/FranklineO-sec/Exploiting-Web-Server-Misconfiguration)  
+Identified and exploited directory listing vulnerabilities to retrieve hidden files.  
+
+## [Exploiting Open SMB Shares](https://github.com/FranklineO-sec/Exploiting-Open-SMB-Shares)  
+Enumerated SMB services, accessed insecure shares, and retrieved sensitive files.  
+
+## [SQL Injection & System Breach Simulation](https://github.com/FranklineO-sec/SQL-Injection-System-Breach-Simulation)  
+Executed SQL injection to extract hashes, cracked passwords, and simulated a breach.  
+
+## [PCAP File & Network Traffic Analysis](https://github.com/FranklineO-sec/PCAP-File-Network-Traffic-Analysis)  
+Analyzed PCAP traffic to detect plaintext data exposure and proposed encryption strategies.  
+
+---
+layout: single
+title: "Lab Challenges"
+permalink: /labs/
+author_profile: true
+---
+
+# 🧪 Lab Challenges  
+
+## [Lab 1: DNS Lookup & Passive Reconnaissance](https://www.notion.so/Lab-1-DNS-Lookup-and-Passive-Reconnaissance-25495637e40a801cbf96e9678f0ae071)  
+Explored DNS lookup techniques for information gathering in reconnaissance.  
+
+## [Lab 2: Social Engineering Toolkit (SET) – Website Cloning](https://www.notion.so/Lab-2-Social-Engineering-Toolkit-SET-Website-Cloning-25495637e40a801c8bddf91f1efc680e)  
+Demonstrated phishing techniques using SET for website cloning.  
+
+## [Lab 3: Cross-Site Scripting (XSS) – Reflected & Stored Attacks](https://www.notion.so/Lab-3-Cross-Site-Scripting-XSS-Reflected-Stored-Attacks-25495637e40a8034be8ac661defdd2ae)  
+Performed XSS exploitation to highlight input sanitization and secure coding practices.  
+
+---
+layout: single
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
+# 📬 Contact Me  
+
+- 📧 Email: [franc.otieno22@gmail.com](mailto:franc.otieno22@gmail.com)  
+- 🐙 GitHub: [FranklineO-sec](https://github.com/FranklineO-sec)  
+- 🏆 Credly: [My Certifications](https://www.credly.com/users/frankline-otieno.4bee4d61/badges)  
+- 🔗 Notion: [Notion Portfolio](https://buttery-dresser-84a.notion.site/Frankline-Otieno-Odero-Cybersecurity-Specialist-37b17ab26b0e45f9944830d97c48555e)  
+- ✖️ X: [Frankli30954794](https://x.com/Frankli30954794)  
