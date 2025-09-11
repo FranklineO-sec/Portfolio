@@ -34,11 +34,11 @@ regulated environments
 - AI Career Essentials – ALX Africa (Jul 2024)  
 
 ## 🛠 Skills  
-- Penetration Testing: Kali Linux, DVWA, Metasploit, Burp Suite  
-- Vulnerability Assessment: SQLMap, Nikto, SMBClient, Enum4linux  
-- Network Analysis: Wireshark, PCAP Analysis  
-- SIEM & Monitoring: Splunk, Elastic, IBM QRadar  
-- Data Security & Compliance (Health Informatics background)  
+- **Penetration Testing:** Kali Linux, DVWA, Metasploit, Burp Suite  
+- **Vulnerability Assessment:** SQLMap, Nikto, SMBClient, Enum4linux  
+- **Network Analysis:** Wireshark, PCAP Analysis  
+- **SIEM & Monitoring:** Splunk, Elastic, IBM QRadar  
+- **Data Security & Compliance** (Health Informatics background)  
 
 ---
 # 🚀 Projects  
