@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-
+---
 # 📄 Resume Outline 
 ## 🎓 Education  
 - **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
