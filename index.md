@@ -5,3 +5,9 @@
 layout: single
 author_profile: true
 ---
+
+# Hi, I’m Frankline Otieno 
+
+**Cybersecurity Specialist | Penetration Testing | Threat Detection | Health Informatics**
+
+Welcome to my portfolio site. Use the navigation menu to explore my resume, projects, lab challenges, and contact details.
