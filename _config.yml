@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Frankline Otieno"
   avatar : "/assets/images/Photo_pro.jpg"
-  bio    : "**Cybersecurity Specialist | Penetration Testing | Threat Detection | Health Informatics**"
+  bio    : "**Cybersecurity Specialist| Health Informatics**"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
