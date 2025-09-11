@@ -1,9 +1,12 @@
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /#resume-outline
+  - title: "Projects"
+    url: /#projects
+  - title: "Labs"
+    url: /#labs
+  - title: "Contact"
+    url: /#contact
