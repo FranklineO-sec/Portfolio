@@ -19,20 +19,29 @@ permalink: /resume/
 author_profile: true
 ---
 
-# 📄 Resume  
+# 📄 Resume Outline 
 
 ## 🎓 Education  
 - **BSc. Health Records and Information Management** – Kenyatta University (2018–2022)  
 
 ## 💼 Work Experience  
 - **AI Data Analyst Intern** – Excelerate (Feb 2025 – Mar 2025)  
-  - Developed predictive models for student churn, improving detection accuracy by 35%.  
-  - Cleaned and prepared 8,000+ data rows for secure ML pipelines.  
-  - Engineered features to identify behavioral anomalies.  
+  - Developed predictive models for student churn, enhancing detection accuracy by 35% for breach and 
+threat modeling applications.  
+  - Cleaned and prepared over 8,000 data rows, ensuring high-quality inputs for secure machine learning 
+pipelines.  
+  - Engineered security-aware features to identify behavioral anomalies indicative of potential data misuse. 
+  - Participated in weekly presentations to senior staff, improving skills in cybersecurity report briefing and 
+executive communication
 
 - **Health Information Management Trainee** – KUTRRH (Mar 2022 – May 2022)  
-  - Managed sensitive patient data under MoH data security protocols.  
-  - Maintained 100% accuracy in KHIS data updates.  
+  -  Managed sensitive patient data with strict adherence to confidentiality and Ministry of Health data 
+security protocols to ensure compliance and privacy.
+  - Issued legal documents securely, ensuring end-to-end data traceability and minimizing risks of 
+unauthorized access.
+  - Maintained 100% accuracy in KHIS data updates, reinforcing precision and data integrity within 
+regulated environments 
+     
 
 ## 🏆 Certifications  
 - Cisco Ethical Hacker Track – Cyber Shujaa (Aug 2025)  
