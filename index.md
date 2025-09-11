@@ -5,12 +5,6 @@
 layout: single
 author_profile: true
 ---
-layout: single
-title: "Resume"
-permalink: /resume/
-author_profile: true
----
-
 # 📄 Resume Outline 
 
 ## 🎓 Education  
@@ -47,12 +41,6 @@ regulated environments
 - Data Security & Compliance (Health Informatics background)  
 
 ---
-layout: single
-title: "Projects"
-permalink: /projects/
-author_profile: true
----
-
 # 🚀 Projects  
 
 ## [Exploiting Web Server Misconfiguration](https://github.com/FranklineO-sec/Exploiting-Web-Server-Misconfiguration)  
@@ -68,11 +56,6 @@ Executed SQL injection to extract hashes, cracked passwords, and simulated a bre
 Analyzed PCAP traffic to detect plaintext data exposure and proposed encryption strategies.  
 
 ---
-layout: single
-title: "Lab Challenges"
-permalink: /labs/
-author_profile: true
----
 
 # 🧪 Lab Challenges  
 
@@ -85,11 +68,6 @@ Demonstrated phishing techniques using SET for website cloning.
 ## [Lab 3: Cross-Site Scripting (XSS) – Reflected & Stored Attacks](https://www.notion.so/Lab-3-Cross-Site-Scripting-XSS-Reflected-Stored-Attacks-25495637e40a8034be8ac661defdd2ae)  
 Performed XSS exploitation to highlight input sanitization and secure coding practices.  
 
----
-layout: single
-title: "Contact"
-permalink: /contact/
-author_profile: true
 ---
 
 # 📬 Contact Me  
