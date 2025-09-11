@@ -44,8 +44,7 @@ regulated environments
      
 
 ## 🏆 Certifications  
-- Cisco Ethical Hacker Track – Cyber Shujaa (Aug 2025)  
-- Python for Cybersecurity Specialization – Coursera (Aug 2025)  
+- Cisco Ethical Hacker Track – Cyber Shujaa (Aug 2025)    
 - AI Career Essentials – ALX Africa (Jul 2024)  
 
 ## 🛠 Skills  
@@ -106,5 +105,4 @@ author_profile: true
 - 📧 Email: [franc.otieno22@gmail.com](mailto:franc.otieno22@gmail.com)  
 - 🐙 GitHub: [FranklineO-sec](https://github.com/FranklineO-sec)  
 - 🏆 Credly: [My Certifications](https://www.credly.com/users/frankline-otieno.4bee4d61/badges)  
-- 🔗 Notion: [Notion Portfolio](https://buttery-dresser-84a.notion.site/Frankline-Otieno-Odero-Cybersecurity-Specialist-37b17ab26b0e45f9944830d97c48555e)  
 - ✖️ X: [Frankli30954794](https://x.com/Frankli30954794)  
