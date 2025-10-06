@@ -36,6 +36,7 @@ regulated environments
      
 
 ## 🏆 Certifications  
+- Security Analyst - Cyber Shujaa (Sep 2025- Present)
 - Cisco Ethical Hacker Track – Cyber Shujaa (Aug 2025)    
 - AI Career Essentials – ALX Africa (Jul 2024)  
 
@@ -44,7 +45,7 @@ regulated environments
 - **Vulnerability Assessment:** SQLMap, Nikto, SMBClient, Enum4linux  
 - **Network Analysis:** Wireshark, PCAP Analysis  
 - **SIEM & Monitoring:** Splunk, Elastic, IBM QRadar  
-- **Data Security & Compliance** (Health Informatics background)  
+- **Cyber Risk & Compliance** (Internship) 
 
 ---
 # 🚀 Projects  
