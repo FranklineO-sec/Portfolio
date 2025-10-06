@@ -12,10 +12,10 @@ author_profile: true
 
 ## 💼 Work Experience 
 - **Cybersecurity Risk Assessment and Compliance Intern** - Excelerate (Oct 2025- Present)
-- Identify vulnerabilities and assess potential cyber threats through structured simulations.
-- Apply compliance frameworks such as NIST and ISO 27001 to evaluate system controls.
-- Document findings and prepare a Cyber Risk Assessment & Compliance Report.
-- Collaborate with Associates to develop data-driven recommendations for partner organizations.
+  - Identify vulnerabilities and assess potential cyber threats through structured simulations.
+  - Apply compliance frameworks such as NIST and ISO 27001 to evaluate system controls.
+  - Document findings and prepare a Cyber Risk Assessment & Compliance Report.
+  - Collaborate with Associates to develop data-driven recommendations for partner organizations.
 
 - **AI Data Analyst Intern** – Excelerate (Feb 2025 – Mar 2025)  
   - Developed predictive models for student churn, enhancing detection accuracy by 35% for breach and 
