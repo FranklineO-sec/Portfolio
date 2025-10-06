@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Resume"
-    url: /resume/
+   # url: /resume/
   - title: "Projects"
-    url: /projects/
+   # url: /projects/
   - title: "Labs"
-    url: /labs/
+   # url: /labs/
   - title: "Contact"
-    url: /contact/
+   # url: /contact/
 
