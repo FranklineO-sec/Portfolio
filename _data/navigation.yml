@@ -1,1 +1,13 @@
+# Navigation menu
+#main:
+  #- title: "Home"
+   # url: /
+  #- title: "Resume"
+   # url: /#resume-outline
+ # - title: "Projects"
+   # url: /#projects
+  #- title: "Labs"
+    #url: /#labs
+  #- title: "Contact"
+   # url: /#contact
 
