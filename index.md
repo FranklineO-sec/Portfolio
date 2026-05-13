@@ -36,7 +36,7 @@ regulated environments
      
 
 ## 🏆 Certifications  
-- Security Analyst - Cyber Shujaa (Sep 2025- Present)
+- Security Analyst - Cyber Shujaa (Sep 2025- Dec 2025)
 - Cisco Ethical Hacker Track – Cyber Shujaa (Aug 2025)    
 - AI Career Essentials – ALX Africa (Jul 2024)  
 
