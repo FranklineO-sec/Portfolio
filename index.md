@@ -12,27 +12,26 @@ author_profile: true
 
 ## 💼 Work Experience 
 - **Cybersecurity Risk Assessment and Compliance Intern** - Excelerate (Oct 2025- Feb 2026)
-  - Identified vulnerabilities and assess potential cyber threats through structured simulations.
-  - Applied compliance frameworks such as NIST and ISO 27001 to evaluate system controls.
-  - Documented findings and prepare a Cyber Risk Assessment & Compliance Report.
-  - Collaborated with Associates to develop data-driven recommendations for partner organizations.
+  - **Threat Assessment:** Identified vulnerabilities and assessed cyber threats through structured simulations 
+to implement robust security measures. 
+  - **Compliance Alignment:** Applied NIST and ISO 27001 frameworks to evaluate system controls, 
+significantly enhancing organizational adherence to standards. 
+  - **Strategic Reporting:** Authored comprehensive Cyber Risk Assessment and Compliance Reports to guide 
+internal security planning and decision-making.  
+  - **Collaborative Security:** Partnered with senior associates to deliver data-driven security 
+recommendations for partner organizations. 
 
-- **AI Data Analyst Intern** – Excelerate (Feb 2025 – Mar 2025)  
-  - Developed predictive models for student churn, enhancing detection accuracy by 35% for breach and 
-threat modeling applications.  
-  - Cleaned and prepared over 8,000 data rows, ensuring high-quality inputs for secure machine learning 
-pipelines.  
-  - Engineered security-aware features to identify behavioral anomalies indicative of potential data misuse. 
-  - Participated in weekly presentations to senior staff, improving skills in cybersecurity report briefing and 
-executive communication
+
 
 - **Health Information Management Trainee** – KUTRRH (Mar 2022 – May 2022)  
-  -  Managed sensitive patient data with strict adherence to confidentiality and Ministry of Health data 
-security protocols to ensure compliance and privacy.
-  - Issued legal documents securely, ensuring end-to-end data traceability and minimizing risks of 
-unauthorized access.
-  - Maintained 100% accuracy in KHIS data updates, reinforcing precision and data integrity within 
-regulated environments 
+- **Sensitive Data Protection:** Managed over 5,000 patient records with strict adherence to confidentiality 
+and Ministry of Health security protocols.   
+- **Access Control:** Issued legal documents through secure channels, ensuring end-to-end data traceability 
+and minimizing unauthorized access risks.   
+- **Data Integrity:** Maintained 100% accuracy in KHIS updates, reinforcing the precision of information 
+within highly regulated environments.   
+- **Protocol Compliance:** Applied clinical data governance standards to ensure all health information 
+processes met national security requirements. 
      
 
 ## 🏆 Certifications  
