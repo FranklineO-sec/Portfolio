@@ -81,4 +81,3 @@ Performed XSS exploitation to highlight input sanitization and secure coding pra
 - 📧 Email: [franc.otieno22@gmail.com](mailto:franc.otieno22@gmail.com)  
 - 🐙 GitHub: [FranklineO-sec](https://github.com/FranklineO-sec)  
 - 🏆 Credly: [My Certifications](https://www.credly.com/users/frankline-otieno.4bee4d61/badges)  
-- ✖️ X: [Frankli30954794](https://x.com/Frankli30954794)  
