@@ -24,13 +24,13 @@ recommendations for partner organizations.
 
 
 - **Health Information Management Trainee** – KUTRRH (Mar 2022 – May 2022)  
-- **Sensitive Data Protection:** Managed over 5,000 patient records with strict adherence to confidentiality 
+  - **Sensitive Data Protection:** Managed over 5,000 patient records with strict adherence to confidentiality 
 and Ministry of Health security protocols.   
-- **Access Control:** Issued legal documents through secure channels, ensuring end-to-end data traceability 
+  - **Access Control:** Issued legal documents through secure channels, ensuring end-to-end data traceability 
 and minimizing unauthorized access risks.   
-- **Data Integrity:** Maintained 100% accuracy in KHIS updates, reinforcing the precision of information 
+  - **Data Integrity:** Maintained 100% accuracy in KHIS updates, reinforcing the precision of information 
 within highly regulated environments.   
-- **Protocol Compliance:** Applied clinical data governance standards to ensure all health information 
+  - **Protocol Compliance:** Applied clinical data governance standards to ensure all health information 
 processes met national security requirements. 
      
 
